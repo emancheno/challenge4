@@ -141,7 +141,7 @@ h1.why{
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution, a { color: hsl(228, 41%, 93%); }
-@media only screen and (min-width:800px){
+@media only screen and (min-width:720px){
     .container{
         width: 637px;
         height: 476px;
